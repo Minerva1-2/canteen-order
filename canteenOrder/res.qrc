@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/cishen.png</file>
+        <file>res/drink.png</file>
+        <file>res/drink2.png</file>
+        <file>res/drink3.png</file>
+        <file>res/drink_logo.png</file>
+        <file>res/hot.png</file>
+        <file>res/logo.png</file>
+        <file>res/preferential.png</file>
+        <file>res/rice.png</file>
+        <file>res/rice1.png</file>
+        <file>res/rice2.png</file>
+        <file>res/rice3.png</file>
+        <file>res/romen.png</file>
+        <file>res/romen1.png</file>
+        <file>res/romen2.png</file>
+        <file>res/romen3.png</file>
+        <file>res/sashimi1.png</file>
+        <file>res/sashimi2.png</file>
+        <file>res/sashimi3.png</file>
+        <file>res/sushi.png</file>
+        <file>res/sushi1.png</file>
+        <file>res/sushi2.png</file>
+        <file>res/sushi3.png</file>
+        <file>res/sushi4.png</file>
+        <file>res/sushi5.png</file>
+        <file>res/sushi6.png</file>
+        <file>res/sushi7.png</file>
+        <file>res/sushi8.png</file>
+        <file>res/sushi9.png</file>
+        <file>res/sushi10.png</file>
+        <file>res/sushi11.png</file>
+        <file>res/sushi12.png</file>
+        <file>res/startup.png</file>
+    </qresource>
+</RCC>
